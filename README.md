@@ -3,4 +3,5 @@ Hi everyone This app is the 6th project of Openclassrooms web developer class. W
 Any suggestions or questions will be appreciated.
 
 https://www.linkedin.com/in/c%C3%A9dric-batina-6b17b31a7/
-email: cedricbatina2021@gmail.com or shakagarvey@gmail.com
+emails: cedricbatina2021@gmail.com and shakagarvey@gmail.com
+phone: +33780845004
